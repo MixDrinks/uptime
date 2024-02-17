@@ -4,19 +4,19 @@
     "url": "https://mixdrinks.org",
     "icon": "https://icons.duckduckgo.com/ip3/mixdrinks.org.ico",
     "slug": "mix-drinks-web",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1590,
     "timeDay": 1634,
     "timeWeek": 1519,
     "timeMonth": 1590,
     "timeYear": 1590,
     "dailyMinutesDown": {
-      "2024-02-17": 8
+      "2024-02-17": 1
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.mixdrinks.org/version",
     "icon": "https://icons.duckduckgo.com/ip3/api.mixdrinks.org.ico",
     "slug": "mix-drinks-backend",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 481,
     "timeDay": 519,
     "timeWeek": 472,
     "timeMonth": 481,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2024-02-17": 7
+      "2024-02-17": 0
     }
   }
 ]
